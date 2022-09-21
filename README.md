@@ -3,6 +3,11 @@
 - Enum을 통한 Error case 관리
 - 각 기능의 메서드화
 - map, split 등의 고차함수들에 대한 이해
+- 주요 로직에 대한 플로우차트 작성
+
+**숫자야구 게임 로직 플로우차트**
+
+<img src="https://raw.githubusercontent.com/Neph3779/Blog-Image/forUpload/img/20220921130413.png" alt="숫자야구게임.drawio" style="zoom: 67%;" />
 
 
 
